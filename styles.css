@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+th {
+    cursor: pointer;
+}
+
+.blight-green {
+    background-color: #d4edda;
+}
+
+.blight-red {
+    background-color: #f8d7da;
+}
+
+.blight-gray {
+    background-color: #e2e3e5;
+}
+
+.blight-orange {
+    background-color: #ffeeba;
+}
+
+button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
